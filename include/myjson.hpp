@@ -4,8 +4,8 @@
  *  order: json_parser
  */
 
-#ifndef TINY_JSON_H_
-#define TINY_JSON_H_
+#ifndef MY_JSON_H_
+#define MY_JSON_H_
 
 #include <string>
 #include <sstream>
@@ -625,4 +625,4 @@ namespace My
 
 } // end namesapce
 
-#endif // TINY_JSON_H_
+#endif // MY_JSON_H_
